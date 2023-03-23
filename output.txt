@@ -1,0 +1,11 @@
+Enter no.of teams: 5
+Enter teams:
+india
+pakistan
+australia
+bangladesh
+newzeland
+[india, pakistan, australia, bangladesh, newzeland]
+[[india Vs pakistan], [india Vs australia], [india Vs bangladesh], [india Vs newzeland], [pakistan Vs australia], [pakistan Vs bangladesh], [pakistan Vs newzeland], [australia Vs bangladesh], [australia Vs newzeland], [bangladesh Vs newzeland]]
+[[pakistan, india], [australia, india], [india, bangladesh], [newzeland, india], [pakistan, australia], [pakistan, bangladesh], [newzeland, pakistan], [australia, bangladesh], [newzeland, australia], [newzeland, bangladesh]]
+[[pakistan, india], [australia, bangladesh], [australia, india], [pakistan, bangladesh], [india, bangladesh], [pakistan, australia], [newzeland, india], [newzeland, pakistan], [newzeland, australia], [newzeland, bangladesh]]
